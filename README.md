@@ -1,4 +1,4 @@
-# Faróis da Ciência
+# Faróis da Ciência - Criado em Imersão Dev com Gemini
 
 ## Descrição
 
